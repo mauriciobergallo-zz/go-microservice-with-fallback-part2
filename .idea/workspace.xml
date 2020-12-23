@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21d11ef5-a342-45a5-aecf-35b0c9d832ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/service/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/%SystemDrive%/ProgramData/Microsoft/Windows/Caches/cversions.2.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/%SystemDrive%/ProgramData/Microsoft/Windows/Caches/{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000001.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/%SystemDrive%/ProgramData/Microsoft/Windows/Caches/{A4D1DBB2-4F98-41B5-A060-F3D957D1B53D}.2.ver0x0000000000000001.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/%SystemDrive%/ProgramData/Microsoft/Windows/Caches/{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000001.db" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
